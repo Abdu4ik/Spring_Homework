@@ -8,6 +8,7 @@ import static com.company.info.Info.*;
 public class Main {
     public static void main(String[] args) {
         System.out.println("ismatov shaxzod");
+        System.out.println("ishladimi aaa shunday qilinar ekan bildm ");
 
 
         try (Connection connection = DriverManager.getConnection(URL, USER, PASSWORD);
